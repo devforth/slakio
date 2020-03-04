@@ -21,8 +21,8 @@ Then in your code
 ```js
 import slakio from 'slakio'
 ...
-Slacklify({
-  slacklify_server_domain: 'https://slakio.mycomp.com'
+slakio({
+  slakio_server_domain: 'https://slakio.mycomp.com'
 })
 ```
 
