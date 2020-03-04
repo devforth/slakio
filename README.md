@@ -29,7 +29,7 @@ slakio({
 By including script
 -------------------
 
-You can download latest `slakio-*.min.js` here https://github.com/devforth/slacklify/releases/ 
+You can download latest `slakio-*.min.js` here https://github.com/devforth/slakio/releases/ 
 
 
 Then insert `<script>` e.g to `<head>` section of your HTML file:
