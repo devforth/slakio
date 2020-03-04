@@ -32,11 +32,14 @@ By including script
 You can download latest `slakio-*.min.js` here https://github.com/devforth/slakio/releases/ 
 
 
-Then insert `<script>` e.g to `<head>` section of your HTML file:
+Insert `<script>` e.g to `<head>` section of your HTML file:
+
 ```html
 <script src="/xxx/slakio-x.x.x.min.js"></script>
 ```
-Then in your code (`body` section, `onclick` handler, etc):
+
+Then in your code:
+
 ```html
 <script>
   slakio(<options>)
